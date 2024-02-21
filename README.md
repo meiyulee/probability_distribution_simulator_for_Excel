@@ -30,12 +30,12 @@
 - [第2篇 中央極限定理真正的使用要求 True Requirements of Central Limit Theorem: 1](https://www.facebook.com/prsimulated2022/videos/539093501153343/)
 - [第2篇 中央極限定理真正的使用要求 True Requirements of Central Limit Theorem: 2](https://www.facebook.com/prsimulated2022/videos/676865973573545)
 - [第2篇 中央極限定理真正的使用要求 True Requirements of Central Limit Theorem: 3](https://www.facebook.com/prsimulated2022/videos/5748340715181554)
-- [母體分配變數變換後的中央極限定理應用 Application of Central Limit Theorem after Variable Transformation of Population Distribution](https://www.facebook.com/prsimulated2022/videos/417029340425741/) [traditional Chinese version]
+- [第3篇 母體分配變數變換後的中央極限定理應用 Application of Central Limit Theorem after Variable Transformation of Population Distribution](https://www.facebook.com/prsimulated2022/videos/417029340425741/)
 
 ## 2. Applications on Economic theory
 
 - [Equilibrium from Demand and Supply](https://www.facebook.com/prsimulated2022/videos/417529529932649/)
-- 
+
 
 
 
