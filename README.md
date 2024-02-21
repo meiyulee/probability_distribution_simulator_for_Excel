@@ -1,7 +1,8 @@
 # Introduction
 
 > Book for the beginner learning probability distributions and variable transformation
-> [Amazon kindle book](https://www.amazon.com/dp/B09PFFN622/?language=en_US&currency=USD)
+> 
+> [Amazon kindle book](https://www.amazon.com/dp/B09PFFN622/?language=en_US&currency=USD) with Excel and VBA programs.
 
 <div align=center><img src="https://i1.rgstatic.net/publication/358078836_Excel_calculating_the_probability_distribution_simulated_data/links/6231db204ba65b248134c7bb/largepreview.png" width="50%"></div>
 
