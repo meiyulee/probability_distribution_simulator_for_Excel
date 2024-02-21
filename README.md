@@ -1,0 +1,2 @@
+# probability_distribution_simulator_for_Excel
+Excel calculating the probability distribution simulated data
