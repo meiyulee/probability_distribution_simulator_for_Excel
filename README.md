@@ -6,7 +6,7 @@
 
 <div align=center><img src="https://i1.rgstatic.net/publication/358078836_Excel_calculating_the_probability_distribution_simulated_data/links/6231db204ba65b248134c7bb/largepreview.png" width="50%"></div>
 
-# Videos on facebook
+## Videos on facebook
 
 - [Arcsin distribution | Gumbel distribution](https://www.facebook.com/prsimulated2022/videos/366476535444951)
 - [logistic distribution | Weibull distribution](https://www.facebook.com/prsimulated2022/videos/545111753629598/)
