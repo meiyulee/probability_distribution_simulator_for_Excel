@@ -36,7 +36,14 @@
 ## 2. Applications on Economic theory
 
 - [Equilibrium from Demand and Supply](https://www.facebook.com/prsimulated2022/videos/417529529932649/)
-
+- Kuei-Yuan Cheng, Yao-Hsien Lee and Mei-Yu Lee, 2016, Price Competition between Shrink-wrap Software and Cloud Service Firms under a Stochastic Model, Problems and Perspectives in Management, 14(2), 272-276. 
+- Yao-Hsien Lee and Mei-Yu Lee, 2015, Extremely Values of Uncertain Payoffs in 2 × 2 Simulated-Based Game: A U-quadratic Distribution Case, *Computer Science and Applications*, 2(5), 182-199. 
+- Che-Yang Lin and Mei-Yu Lee, 2015, Time-varying and Scale Effect of Payoff Uncertainty on Nash Equilibrium Payoff in 2 × 2 Simulation-Based Game: A Weibull Distribution Case, *Economic Computation and Economic Cybernetics Studies and Research*, 49(3), 305 - 322.
+- Yao-Hsien Lee and Mei-Yu Lee, 2015, The Payoff Pattern of Nash Equilibra by a Change of Risk in 2 × 2 Simulation-Based Game, *Frontiers in Artificial Intelligence and Applications*, 274, 2143-2151.
+- Yao-Hsien Lee and Mei-Yu Lee, 2014, Risky Strategies with Payoff Mean Changed in 2 × 2 Simulation-Based Game: A Normal Distribution Case, *Problems and Perspectives in Management*,  #4(2)
+- Mei-Yu Lee, 2014, Computer Simulates the Effect of Internal Restriction on Residuals in Linear Regression Model with First-order Autoregressive Procedures, *Journal of Statistical and Econometric Methods*, 3(3), 1-22.
+- Mei-Yu Lee, 2014, Strategic Payoffs of Normal Distribution Bump into Nash Equilibrium in 2 × 2 Game, *International Journal of Game theory and Technology*, 2(3), 1-10. 
+- Mei-Yu Lee, 2014, The Pattern of R-Square in Linear Regression Model with First-Order Autoregressive Error Process and Bayesian property: Computer Simulation, *Journal of Accounting Finance & Management Strategy*, 9(1), 115-132. 
 
 
 
