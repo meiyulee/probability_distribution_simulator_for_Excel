@@ -55,7 +55,23 @@ Being users, programming languages or softwares are the assistant for more effic
 - Yao-Hsien Lee and Mei-Yu Lee, 2014, Risky Strategies with Payoff Mean Changed in 2 × 2 Simulation-Based Game: A Normal Distribution Case, *Problems and Perspectives in Management*,  #4(2)
 - Mei-Yu Lee, 2014, Computer Simulates the Effect of Internal Restriction on Residuals in Linear Regression Model with First-order Autoregressive Procedures, *Journal of Statistical and Econometric Methods*, 3(3), 1-22.
 - Mei-Yu Lee, 2014, Strategic Payoffs of Normal Distribution Bump into Nash Equilibrium in 2 × 2 Game, *International Journal of Game theory and Technology*, 2(3), 1-10. 
-- Mei-Yu Lee, 2014, The Pattern of R-Square in Linear Regression Model with First-Order Autoregressive Error Process and Bayesian property: Computer Simulation, *Journal of Accounting Finance & Management Strategy*, 9(1), 115-132. 
+- Mei-Yu Lee, 2014, The Pattern of R-Square in Linear Regression Model with First-Order Autoregressive Error Process and Bayesian property: Computer Simulation, *Journal of Accounting Finance & Management Strategy*, 9(1), 115-132.
+
+## 3. Articles
+
+- [如何在Excel中畫直方圖 Part I](https://meiyulee.github.io/leetalk/2022/04/11/hitogram-povit-table)
+- [如何在Excel中畫直方圖 Part II](https://meiyulee.github.io/leetalk/2022/04/11/hitogram-step-by-step-excel)
+- [如何在Excel中畫直方圖 Part III](https://meiyulee.github.io/leetalk/2022/04/16/hitogram-software)
+- [大數據分析的第一步_讓我告訴你模擬的重要](https://meiyulee.github.io/leetalk/2022/12/24/firststep-bigdataanalysis)
+- [如何模擬常態分配](https://meiyulee.github.io/leetalk/2022/04/06/normal-dist-001)
+- [常態分配與其他分配關係](https://meiyulee.github.io/leetalk/2022/04/06/normal-dist-002)
+- [二維常態分配介紹與模擬](https://meiyulee.github.io/leetalk/2022/04/08/bivariate-normal)
+- [從指數分配轉換到其他分配](https://meiyulee.github.io/leetalk/2022/05/22/exponential-dist-22522)
+- [中央極限定理的謬誤](https://meiyulee.github.io/leetalk/2023/09/01/clt-mistake)
+- [機率分配模擬器-人工智慧的基本模板](https://meiyulee.github.io/leetalk/2022/03/28/probability-simulator)
+- [中央極限定理的使用要求的謬誤](https://meiyulee.github.io/leetalk/2022/04/26/CLT-mistake-22426)
+- [【經濟模型模擬系列】供需均衡模型](https://meiyulee.github.io/leetalk/2022/05/23/econmodel-simulation-22523)
+
 
 
 
