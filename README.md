@@ -1,10 +1,22 @@
-# Introduction
+# [Excel calculating the probability distribution simulated data](https://www.amazon.com/dp/B09PFFN622/?language=en_US&currency=USD)
 
-> Book for the beginner learning probability distributions and variable transformation
-> 
-> [Amazon kindle book](https://www.amazon.com/dp/B09PFFN622/?language=en_US&currency=USD) with Excel and VBA programs.
+by Keng-Wei Wang, Kuan-Sian Wang, [Mei-Yu Lee](https://meiyulee.github.io)
+
+This repository contains links to references (journal papers and videos) that are useful for learning simulation of probability distributions and variable transformation. The latter shows that you don't need to learn Jacobian and can simulate data well.
+
+
 
 <div align=center><img src="https://i1.rgstatic.net/publication/358078836_Excel_calculating_the_probability_distribution_simulated_data/links/6231db204ba65b248134c7bb/largepreview.png" width="50%"></div>
+
+## **This is a tool book!!**
+
+This book is for the beginner to learn probability distributions and variable transformation in Probability theory and Statistics by Excel or VBA programs, such as, especially, **the sampling distribution of a specific statistic**.
+
+The level of the book starts from basic undergraduate economics/business management/stats/math/CS and in some cases goes up to the research scope. 
+
+## The height of your life depends on the depth of knowledge you have
+
+Being users, programming languages or softwares are the assistant for more efficient work. For students, the two are helping for learning knowledge easily and deeply and understanding the operating/generating process objectively and definatly.
 
 ## Videos on facebook
 
