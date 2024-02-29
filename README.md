@@ -57,7 +57,7 @@ Being users, programming languages or softwares are the assistant for more effic
 - Mei-Yu Lee, 2014, Strategic Payoffs of Normal Distribution Bump into Nash Equilibrium in 2 × 2 Game, *International Journal of Game theory and Technology*, 2(3), 1-10. 
 - Mei-Yu Lee, 2014, The Pattern of R-Square in Linear Regression Model with First-Order Autoregressive Error Process and Bayesian property: Computer Simulation, *Journal of Accounting Finance & Management Strategy*, 9(1), 115-132.
 
-## 3. Articles
+## 3. Articles (traditional Chinese version)
 
 - [如何在Excel中畫直方圖 Part I](https://meiyulee.github.io/leetalk/2022/04/11/hitogram-povit-table)
 - [如何在Excel中畫直方圖 Part II](https://meiyulee.github.io/leetalk/2022/04/11/hitogram-step-by-step-excel)
